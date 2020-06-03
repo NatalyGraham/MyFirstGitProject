@@ -11,6 +11,7 @@ import java.sql.Statement;
  * @author Nataly Haievska
  * @date 01.06.2020
  */
+// new comment
 public class CheckData {
     public static int id;
 
